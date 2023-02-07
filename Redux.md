@@ -7,7 +7,7 @@
 
 # 1 -- Installing Redux - We need to Install Both the Redux Packages
       GENERAL  -- npm install redux
-     *REACT SPECIFIC REDUX -- npm install redux react-redux      
+     *REACT SPECIFIC REDUX -- npm install react-redux      
 
 # 2 -- Creating a Redux Global store for React App -- /store Folder
              Inside /store Folder-- Create index.js for redux LOGIC
